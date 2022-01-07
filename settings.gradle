@@ -1,0 +1,2 @@
+rootProject.name='CRSOF_Application'
+include ':app'
